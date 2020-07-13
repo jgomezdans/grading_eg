@@ -2,7 +2,7 @@
 import sys
 import os
 sys.path.insert(0, os.path.abspath('..'))
-from ..assignment1 import assignment_one
+from assignment1 import assignment_one
 
 def test_one():
     sample_string = "A boring tedious string"
